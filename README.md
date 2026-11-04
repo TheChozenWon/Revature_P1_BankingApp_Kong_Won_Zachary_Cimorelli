@@ -28,7 +28,7 @@ Key notes:
 2. After finishing the project, we test and make screenshots and take key notes of our project.
 3. 5 layers to go through and check with when building our project
 4. We will use maven, push/commit changes every 2 days
-5. For moongoDB, it that stores employee notes and activity logs.
+5. For mongoDB, it stores employee notes and activity logs.
 6. Connection URLs, usernames, and passwords must come from configuration and not source code
 7. We'll do command line for user interations
 
