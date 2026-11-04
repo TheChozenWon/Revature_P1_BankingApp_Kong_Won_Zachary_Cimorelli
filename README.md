@@ -48,7 +48,7 @@ Kong's roles:
 5.
 
 Zach's roles:
-1.
+1. Setup project (Maven)
 2.
 3.
 4.
