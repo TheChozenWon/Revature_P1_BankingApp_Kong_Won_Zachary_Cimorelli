@@ -41,15 +41,15 @@ Steps to finish (break down the work from beginning to end):
 5.
 
 Kong's roles:
-1. Application models
-2.MongoDB (via the MongoDB Java Driver)
+1. Create Application models
+2. MongoDB (via the MongoDB Java Driver)
 3.
 4.
 5.
 
 Zach's roles:
 1. Setup project (Maven)
-2.
+2. PostgreSQL (via JDBC)
 3.
 4.
 5.
