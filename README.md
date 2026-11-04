@@ -55,8 +55,8 @@ Zach's roles:
 5.
 
 
-Project Requirements Checklist:
-1. Project is built as a Java application using Maven or Gradle and follows a clean, organized package structure with appropriate separation of concerns. (When each requirement is met, do (check) to know that part is done)
+Project Requirements Checklist (When each requirement is met, do (check) to know that part is done.:
+1. Project is built as a Java application using Maven or Gradle and follows a clean, organized package structure with appropriate separation of concerns. () 
 2. Application implements appropriate object-oriented design using well-defined model classes and follows the layered architecture (Presentation, Service, Data Access, Model, and Configuration). ()
 3. Application uses PostgreSQL (via JDBC) for customers, employees, accounts, and transactions, and MongoDB (via the MongoDB Java Driver) for employee account notes and activity logs, with each accessed only through DAO interfaces. ()
 4. Application supports two roles (customer and employee) and enforces role-based access to features and data. ()
