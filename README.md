@@ -25,22 +25,24 @@ There are no commits on passwords, credentials, or private database connection v
 
 Key notes:
 1. A backend-focused project to build a console-based banking application using Java
-2.
-3.
-4.
-5.
+2. After finishing the project, we test and make screenshots and take key notes of our project.
+3. 5 layers to go through and check with when building our project
+4. We will use maven, push/commit changes every 2 days
+5. For moongoDB, it that stores employee notes and activity logs.
+6. Connection URLs, usernames, and passwords must come from configuration and not source code
+7. We'll do command line for user interations
 
 
 Steps to finish (break down the work from beginning to end):
-1.
+1. Set up the jave maven project and put in the classes and models
 2.
 3.
 4.
 5.
 
 Kong's roles:
-1.
-2.
+1. Application models
+2.MongoDB (via the MongoDB Java Driver)
 3.
 4.
 5.
