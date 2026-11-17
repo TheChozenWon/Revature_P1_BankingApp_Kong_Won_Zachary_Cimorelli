@@ -20,6 +20,15 @@ This README.md will explain:
 13. DAO implementation
 14. Known limitations
 15. Optional enhancements completed
+
+## Java Runtime
+
+The project targets Java 25. Use a Java 25 JDK to compile and run it, with Maven available on `PATH`:
+
+```powershell
+mvn clean test-compile
+mvn clean test
+```
     
 There are no commits on passwords, credentials, or private database connection values to the repository.
 
@@ -34,7 +43,7 @@ Key notes:
 
 
 Steps to finish (break down the work from beginning to end):
-1. Set up the jave maven project and put in the classes and models
+1. Set up the java maven project and put in the classes and models
 2.
 3.
 4.
