@@ -1,10 +1,16 @@
 package com.team;
+import com.team.database.MongoDBConnection;
 
-/**
- * Hello world!
- */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        try {
+            //Test MongoDB connection
+            MongoDBConnection.testConnection();
+        } catch (Exception e) {
+            System.err.println("MongoDB connection failed: " + e.getMessage());
+        } finally {
+            //Close MongoDB connection
+            MongoDBConnection.closeConnection();
+        }
     }
 }
